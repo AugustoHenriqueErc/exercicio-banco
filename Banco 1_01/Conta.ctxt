@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Conta
+comment0.text=\r\n\ Representa\ uma\ conta\ de\ banco\ simplificada.\r\n\ \r\n\ Os\ valores\ de\ dinheiro\ s\u00E3o\ expressos\ em\ centavos.\r\n\ \r\n\ @author\ Daniel\ Conrado\r\n\ @version\ 2023\r\n
+comment1.params=n\u00FAmeroDaConta\ chequeEspecial\ titularDaConta
+comment1.target=Conta(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Conta\r\n
+comment2.params=quantia
+comment2.target=void\ sacar(int)
+comment2.text=\r\n\ realiza\ um\ saque\ da\ quantia\ informada,\ diminuindo\ o\ saldo\ da\ conta.\r\n\ \r\n\ @param\ \ quantia\ \ \ o\ tanto\ de\ dinheiro\ a\ sacar\r\n
+comment3.params=quantia
+comment3.target=void\ depositar(int)
+comment3.text=\r\n\ Deposita\ a\ quantia\ informada,\ aumentando\ o\ saldo\ da\ conta.\r\n\r\n\ @param\ \ quantia\ \ \ o\ tanto\ de\ dinheiro\ a\ depositar\r\n
+comment4.params=
+comment4.target=int\ getSaldo()
+comment4.text=\r\n\ Retorna\ o\ saldo\ atual\ da\ conta."\r\n
+comment5.params=
+comment5.target=void\ imprimirDetalhes()
+comment5.text=\r\n\ Imprime\ na\ tela\ os\ detalhes\ da\ conta.\r\n
+numComments=6
